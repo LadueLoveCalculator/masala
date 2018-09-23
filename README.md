@@ -11,17 +11,17 @@ thank you, and have a good love
 # How to Use
 
 Git clone the repository to a directory and make that your current directory.
-
+```shell
    git clone https://github.com/LadueLoveCalculator/masala.git
    cd ./masala
-   
+```
 Download the necessary modules with
-
+```shell
    pip install -r requirements.txt
-   
+```
 (You may want to make a virtual environment first to avoid possible issues in the future.)
 
 Run the script.
-
+```shell
    python masala.py
-   
+```

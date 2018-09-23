@@ -8,20 +8,20 @@ thank you, and have a good love
 
    -anonyMOus
    
-# How to Use
+### How to Use
 
-Git clone the repository to a directory and make that your current directory.
+1. Git clone the repository to a directory and make that your current directory.
 ```shell
    git clone https://github.com/LadueLoveCalculator/masala.git
    cd ./masala
 ```
-Download the necessary modules with
+2. Download the necessary modules with
 ```shell
    pip install -r requirements.txt
 ```
 (You may want to make a virtual environment first to avoid possible issues in the future.)
 
-Run the script.
+3. Run the script!
 ```shell
    python masala.py
 ```

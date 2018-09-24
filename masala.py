@@ -11,4 +11,4 @@ while n1!="" and n2!="":
 	n1=raw_input("First Name: ")
 	n2=raw_input("Second Name: ")
 
-print(masala_utils.use_model(model, "names.txt", n1, n2))
+	if n1!="" and n2!="": print(masala_utils.use_model(model, "names.txt", n1, n2))
